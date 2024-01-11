@@ -1,4 +1,6 @@
 #Getting ready to commit
 -[] Gather initial set of requirements
--[] Implement a litter of users for "user testing"
+-[X] Implement a litter of users for "user testing"
+-[] Implement controllers
+-[] Implement service methods
 -[] Demo first version
